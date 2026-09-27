@@ -1,0 +1,2 @@
+# runhug apt repo (GitHub Pages)
+deb [trusted=yes] https://openhat-security.github.io/packages/deb stable main

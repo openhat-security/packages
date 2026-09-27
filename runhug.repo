@@ -1,0 +1,5 @@
+[runhug]
+name=runhug (GitHub Pages)
+baseurl=https://openhat-security.github.io/packages/rpm
+enabled=1
+gpgcheck=0

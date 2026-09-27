@@ -1,0 +1,16 @@
+Package: runhug
+Architecture: arm64
+Version: 0.1.8
+Priority: optional
+Section: utils
+Maintainer: OpenHat Security <opensource@openhat.dev>
+Installed-Size: 11520
+Filename: pool/main/runhug_0.1.8_arm64.deb
+Size: 5007198
+MD5sum: 3d8605f347d51a76ba756941ca876b44
+SHA1: de0c44df15edefe3a75b1aa649a1b33f56c066f5
+SHA256: 3c90720dd3e8a51df2130a1093576446d3e3002ecb3bed2643820a8ddfe6bd33
+SHA512: f9ec4993beea7a7ada9a30b666da53d22c95f2c6900268f9130bdbb5326c45e269fe4853bed74be347e1072e5e5b09d5348c99cc4eb644ecf66801e26a5cd94c
+Homepage: https://github.com/openhat-security/runhug
+Description: Find the best Hugging Face model. Deploy it in minutes. Run it for pennies.
+
