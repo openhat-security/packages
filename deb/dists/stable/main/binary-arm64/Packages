@@ -30,3 +30,19 @@ SHA512: 447eeacd6457359ec79a9082072a7d3432314b45397f734a5cdba61d7611f74330623b26
 Homepage: https://github.com/openhat-security/truffles
 Description: Find GitHub repositories at scale, then scan their full git history for leaked credentials with trufflehog.
 
+Package: truffles
+Architecture: arm64
+Version: 1.0.15
+Priority: optional
+Section: utils
+Maintainer: OpenHat Security <opensource@openhat.dev>
+Installed-Size: 6784
+Filename: pool/main/truffles_1.0.15_arm64.deb
+Size: 2879204
+MD5sum: 395e8493ef3463e98d69fc95b31460aa
+SHA1: b89f995c8a200c869b4c20395d4583983d09b44a
+SHA256: 6b6ebf1cbbe3552edb08832d6b6dc6d67c4bfd0ace0a0ee71080dfcdb1fafc06
+SHA512: f92969fe75940144dfea357eae10621f78d5ced045f918d11da4c57bbb827207943201dec7bb63037f82b0ce64ffb085b1efb0a126ce66a1ebafa06cf13e0009
+Homepage: https://github.com/openhat-security/truffles
+Description: Find GitHub repositories at scale, then scan their full git history for leaked credentials with trufflehog.
+
