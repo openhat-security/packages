@@ -1,0 +1,2 @@
+# truffles apt repo (GitHub Pages, shared pool with other OpenHat CLIs)
+deb [trusted=yes] https://openhat-security.github.io/packages/deb stable main

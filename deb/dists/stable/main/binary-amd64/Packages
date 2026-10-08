@@ -14,3 +14,19 @@ SHA512: 65ddb6fd98dcafcb1c3f5a89f065df72203e91c1e7091a7443b8206fa8c579ed4951a0ee
 Homepage: https://github.com/openhat-security/runhug
 Description: Find the best Hugging Face model. Deploy it in minutes. Run it for pennies.
 
+Package: truffles
+Architecture: amd64
+Version: 1.0.14
+Priority: optional
+Section: utils
+Maintainer: OpenHat Security <opensource@openhat.dev>
+Installed-Size: 7348
+Filename: pool/main/truffles_1.0.14_amd64.deb
+Size: 3191126
+MD5sum: c7280c905cbf7ddb044f725245470d7b
+SHA1: 0090be4f4a78344cc5b96659aec208b283b0c8b8
+SHA256: a9d6253e5edaa34f8a3541822d02a9ce8340c4a26d96767acbd26cd63563243a
+SHA512: 49f35faca53c6a3f97d0053812619cafe8a6a32d93f7b01ea7d7b43f8d3b2e6fbf805fec65326098074a134273d36498c76e0327dff244f3e81ff2459e25e570
+Homepage: https://github.com/openhat-security/truffles
+Description: Find GitHub repositories at scale, then scan their full git history for leaked credentials with trufflehog.
+
